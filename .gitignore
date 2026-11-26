@@ -1,0 +1,33 @@
+# Rebuilt with `npm ci` (package-lock.json keeps React 18 / R3F 8 pinned)
+node_modules/
+
+# Renders and previews
+out/
+
+# Material de terceros y descargas crudas (no se publican)
+# referencias/: videos de otros canales usados como referencia visual
+# voices/: mp3 originales de ElevenLabs / WhatsApp; la voz que usa cada video
+#          ya está convertida en shorts/<nombre>/voice/voice.wav y public/<nombre>/
+referencias/
+voices/
+
+# Temporales de Remotion y modelos de whisper (se bajan solos)
+remotion-tmp/
+models/
+
+# Configuración local de Claude Code
+.claude/settings.local.json
+
+# Python / OS / editor junk
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
+# Secrets, never in the repo
+.env
+.env.*
+*.pem

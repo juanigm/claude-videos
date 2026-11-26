@@ -1,0 +1,10 @@
+# Texto siempre con LF (los archivos del proyecto ya están así)
+* text=auto eol=lf
+
+# Binarios
+*.wav binary
+*.mp3 binary
+*.mp4 binary
+*.ttf binary
+*.png binary
+*.jpg binary

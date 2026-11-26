@@ -1,0 +1,13 @@
+Fuentes de esta carpeta: todas se distribuyen bajo la SIL Open Font License 1.1 (OFL).
+Texto de la licencia: https://openfontlicense.org/open-font-license-official-text/
+
+  Baloo 2        - Ek Type                  - https://fonts.google.com/specimen/Baloo+2
+  Bebas Neue     - Ryoichi Tsunekawa        - https://fonts.google.com/specimen/Bebas+Neue
+  Figtree        - Erik Kennedy             - https://fonts.google.com/specimen/Figtree
+  Inter          - Rasmus Andersson         - https://fonts.google.com/specimen/Inter
+  Montserrat     - The Montserrat Project   - https://fonts.google.com/specimen/Montserrat
+  Nunito         - Vernon Adams y otros     - https://fonts.google.com/specimen/Nunito
+  Space Grotesk  - Florian Karsten          - https://fonts.google.com/specimen/Space+Grotesk
+
+Se pueden usar en videos comerciales. No se pueden vender las fuentes solas.
+Hay mas fuentes libres ya instaladas como paquetes en node_modules/@fontsource/.
